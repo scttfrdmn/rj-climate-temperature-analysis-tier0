@@ -1,6 +1,6 @@
 # Regional Climate Downscaling with CMIP6
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17945948.svg)](https://doi.org/10.5281/zenodo.17945948)
 
 **Duration:** 60-90 minutes
 **Platform:** Google Colab or SageMaker Studio Lab
